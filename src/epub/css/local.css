@@ -16,3 +16,10 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+section[epub|type~="dedication"] p{
+	margin-top: 5em;
+	margin-bottom: 2em;
+	font-variant: small-caps;
+	text-align: center;
+}
