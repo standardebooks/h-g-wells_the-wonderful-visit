@@ -20,6 +20,10 @@ figure img{
 	max-width: 90%;
 }
 
+figure + p{
+	text-indent: 0;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
