@@ -1,6 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+abbr.name{
+	white-space: nowrap;
+}
+
+abbr.initialism{
+	white-space: nowrap;
+}
+
 figure{
 	margin: 1em auto;
 	text-align: center;
