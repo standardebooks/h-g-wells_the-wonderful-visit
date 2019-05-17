@@ -26,26 +26,27 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Wonderful Visit</dc:title>
 		<meta property="file-as" refines="#title">Wonderful Visit, The</meta>
 		<dc:subject id="subject-1">England -- Social life and customs -- 19th century -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy fiction</dc:subject>
 		<dc:subject id="subject-3">Angels -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/33913</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/33913</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/33913</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008114941</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85047114</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101113</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<dc:description id="description">An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Wonderful Visit&lt;/i&gt; is an early work by H. G. Wells, published in the same year as &lt;i&gt;The Time Machine&lt;/i&gt;. It takes a gentle, semi-comic approach to some of Wells’ social concerns by using the device of an angel fallen into our world from the Land of Dreams. This external observer, largely ignorant of the ways of humans and our society, is able to focus an unbiased eye on our failings.&lt;/p&gt;
 			&lt;p&gt;The story opens with a strange glare over the little village of Sidderford one night, observed by only a few. But then reports arise of a Strange Bird being seen in the woods. The Rev. Hilyer, the Vicar of Sidderford, is a keen ornithologist. He takes his gun and goes out to hunt this unusual specimen for his collection. He does indeed see a strange flying creature, shoots at it, and brings it down. To his horror, he finds that he has shot and wounded a man-like creature with wings—in fact, an Angel.&lt;/p&gt;
 			&lt;p&gt;The Vicar restores the Angel to health, but finds himself incapable of convincing others that this person really is an angel. The continuing clashes of the Angel’s idealistic points of view with the harsh reality of the human world are the core of this story.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Wonderful Visit&lt;/i&gt; was well-received by critics and Wells’ contemporaries. Joseph Conrad praised it for its imaginative approach in a personal letter to Wells.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33913</dc:source>
 		<dc:source>https://archive.org/details/wonderfulvisit00wellrich</dc:source>
