@@ -38,8 +38,8 @@
 		<meta property="term" refines="#subject-2">sh85047114</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2007101113</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Fantasy</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Wonderful Visit&lt;/i&gt; is an early work by H. G. Wells, published in the same year as &lt;i&gt;The Time Machine&lt;/i&gt;. It takes a gentle, semi-comic approach to some of Wells’ social concerns by using the device of an angel fallen into our world from the Land of Dreams. This external observer, largely ignorant of the ways of humans and our society, is able to focus an unbiased eye on our failings.&lt;/p&gt;
