@@ -50,7 +50,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/33913</dc:source>
 		<dc:source>https://archive.org/details/wonderfulvisit00wellrich</dc:source>
 		<meta property="se:production-notes">The structure of this book is unusual, with many short sections some of which have titles and some which not. I have elected to preserve Wells’ numbering and supplied titles for the blank sections which assume they are a continuation of the previous titled section. I have also re-created the musical fragment in chapter 25 (notes) in a modern composing program rather than try to vectorize a page scan.</meta>
-		<meta property="se:word-count">39077</meta>
+		<meta property="se:word-count">39087</meta>
 		<meta property="se:reading-ease.flesch">76.32</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Visit</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-g-wells_the-wonderful-visit</meta>
