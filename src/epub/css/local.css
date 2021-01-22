@@ -12,10 +12,6 @@ figure img{
 	max-width: 90%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 section[epub|type~="dedication"] p{
 	margin-top: 5em;
 	margin-bottom: 2em;
