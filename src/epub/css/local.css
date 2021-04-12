@@ -2,6 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
@@ -9,7 +10,7 @@ figure{
 figure img{
 	display: block;
 	margin: auto;
-	max-width: 90%;
+	max-width: 100%;
 }
 
 section[epub|type~="dedication"] p{
