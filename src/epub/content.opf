@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2007101113</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:abstract>An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.</dc:abstract>
+		<meta property="schema:abstract">An angel falls into the everyday world of 19th Century England and is bewildered and despirited by human life and society.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;The Wonderful Visit&lt;/i&gt; is an early work by &lt;a href="https://standardebooks.org/ebooks/h-g-wells"&gt;&lt;abbr&gt;H. G.&lt;/abbr&gt; Wells&lt;/a&gt;, published in the same year as &lt;a href="https://standardebooks.org/ebooks/h-g-wells/the-time-machine"&gt;&lt;i&gt;The Time Machine&lt;/i&gt;&lt;/a&gt;. It takes a gentle, semi-comic approach to some of Wells’ social concerns by using the device of an angel fallen into our world from the Land of Dreams. This external observer, largely ignorant of the ways of humans and our society, is able to focus an unbiased eye on our failings.&lt;/p&gt;
 			&lt;p&gt;The story opens with a strange glare over the little village of Sidderford one night, observed by only a few. But then reports arise of a Strange Bird being seen in the woods. The Rev. Hilyer, the Vicar of Sidderford, is a keen ornithologist. He takes his gun and goes out to hunt this unusual specimen for his collection. He does indeed see a strange flying creature, shoots at it, and brings it down. To his horror, he finds that he has shot and wounded a man-like creature with wings—in fact, an Angel.&lt;/p&gt;
